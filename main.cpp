@@ -5,8 +5,7 @@
 //RELAY MODULE: http://arduinolearning.com/code/5-volt-4-channel-arduino-relay-module-example.php#codesyntax_1
 /*
 Firmware functions:
-  SWITCHES THE FOUR DIFFERENT LOADS BASED ON SET TIMES IN THE DAY 
-  PROGRAMMABLE USING KEYPAD
+  SWITCHES THE FOUR DIFFERENT LOADS BASED ON SET TIMES IN THE DAY AND PROGRAMMABLE USING KEYPAD
 */
 
 //LIBRARIES TO USE
